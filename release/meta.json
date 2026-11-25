@@ -1,0 +1,6 @@
+{
+ "name": "full_v",
+ "clean_test_wer": 18.59,
+ "note": "ViCocktail test sạch, greedy CTC",
+ "level_norm": true
+}

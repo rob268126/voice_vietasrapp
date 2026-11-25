@@ -1,0 +1,9 @@
+streamlit>=1.39
+torch>=2.2
+numpy
+scipy
+matplotlib
+sentencepiece
+imageio-ffmpeg
+#silero-vad 
+#speechbrain

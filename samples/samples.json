@@ -1,0 +1,128 @@
+[
+ {
+  "file": "00_hoi_thoai_gia_lap_nhieu_nguoi.wav",
+  "category": "hoi_thoai_gia_lap",
+  "set": "test",
+  "duration_s": 47.1,
+  "reference": "[  0.0s] Nguoi 1: thì mình ở mỹ trong khi đó mình phải đi học mình phải đi làm thêm thì mình nhìn ở việt nam á bạn bè mình bằng tuổi mình á người ta có địa vị có công việc tới đây\n[ 10.3s] Nguoi 2: những cái điều tích cực những cái điều hay mà các bạn đang cố gắng hướng tới các bạn đang muốn trở thành một người tự tin hơn đúng không hãy lùi lại về sau một vài bước\n[ 19.5s] Nguoi 1: từ hồi nhỏ là mình đã vậy rồi những lúc mình làm ba mẹ buồn những lúc mình muốn xin lỗi những lúc mình muốn cảm ơn hay bày tỏ tình cảm với ai đó\n[ 28.3s] Nguoi 2: tự bản thân mình muốn mình là một người như thế mình là một người thích đọc sách dành thời gian ba mươi phút một tiếng mỗi ngày để tận hưởng cái việc đọc sách mình thích cái việc mà đi ra ngoài vận động\n[ 39.2s] Nguoi 1: em biết rằng là thầy cô nào cũng sẽ muốn tốt cho học sinh mình muốn học sinh mình có thể phát triển theo cách tốt nhất",
+  "model_output": "",
+  "wer_percent": null
+ },
+ {
+  "file": "01_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 9.5,
+  "reference": "thì mình ở mỹ trong khi đó mình phải đi học mình phải đi làm thêm thì mình nhìn ở việt nam á bạn bè mình bằng tuổi mình á người ta có địa vị có công việc tới đây",
+  "model_output": "thì mình ở mỹ trong khi đó mình phải đi học mình phải đi làm thêm thì mình nhìn ở việt nam á bạn bè mình bằng tuổi mình á người ta có địa vị có công việc tới đây",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "02_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 8.4,
+  "reference": "những cái điều tích cực những cái điều hay mà các bạn đang cố gắng hướng tới các bạn đang muốn trở thành một người tự tin hơn đúng không hãy lùi lại về sau một vài bước",
+  "model_output": "những cái điều tích cực những cái điều hay mà các bạn đang cố gắng hướng tới các bạn đang muốn trở thành một người tự tin hơn đúng không hãy lùi lại về sau một vài bước",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "03_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 8.0,
+  "reference": "từ hồi nhỏ là mình đã vậy rồi những lúc mình làm ba mẹ buồn những lúc mình muốn xin lỗi những lúc mình muốn cảm ơn hay bày tỏ tình cảm với ai đó",
+  "model_output": "từ hồi nhỏ là mình đã vậy rồi những lúc mình làm ba mẹ buồn những lúc mình muốn xin lỗi những lúc mình muốn cảm ơn hay bày tỏ tình cảm với ai đó",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "04_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 10.1,
+  "reference": "tự bản thân mình muốn mình là một người như thế mình là một người thích đọc sách dành thời gian ba mươi phút một tiếng mỗi ngày để tận hưởng cái việc đọc sách mình thích cái việc mà đi ra ngoài vận động",
+  "model_output": "tự bản thân mình muốn mình là một người như thế mình là một người thích đọc sách dành thời gian ba mươi phút một tiếng mỗi ngày để tận hưởng cái việc đọc sách mình thích cái việc mà đi ra ngoài vận động",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "05_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 7.1,
+  "reference": "em biết rằng là thầy cô nào cũng sẽ muốn tốt cho học sinh mình muốn học sinh mình có thể phát triển theo cách tốt nhất",
+  "model_output": "em biết rằng là thầy cô nào cũng sẽ muốn tốt cho học sinh mình muốn học sinh mình có thể phát triển theo cách tốt nhất",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "06_de_wer_thap_nhat.wav",
+  "category": "de_wer_thap_nhat",
+  "set": "test",
+  "duration_s": 6.5,
+  "reference": "ờ bởi vì nhà bán thì nhiều mà người mua thì bây giờ họ rất là khó tính",
+  "model_output": "ờ bởi vì nhà bán thì nhiều mà người mua thì bây giờ họ rất là khó tính",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "07_trung_binh.wav",
+  "category": "trung_binh",
+  "set": "test",
+  "duration_s": 10.1,
+  "reference": "là tập trung trong thời gian đầu này hoàn thành tốt khóa học để mình có thể nạp được gần một nghìn từ vựng và hơn một trăm ba mươi lăm cấu trúc ngữ pháp trọng điểm nhá quan trọng nhất là mình phải theo sát",
+  "model_output": "là tập trung trong thời gian đầu này hoàn thành tốt khóóa học để mình có thể nạp được gần một nghìn từ vượng và hơn một trăm ba mươi lăm cấu chữ gượ phát trọng điểmp nhá quan trọng nhất là mình phải theo sá",
+  "wer_percent": 15.2
+ },
+ {
+  "file": "08_trung_binh.wav",
+  "category": "trung_binh",
+  "set": "test",
+  "duration_s": 7.3,
+  "reference": "nghe đánh vần tên tuổi như thế nào cho thấy nghe số điện thoại như thế nào hay là nghe tuổi tác hỏi về thời gian hỏi về kế hoạch trong tương lai",
+  "model_output": "nghe đánh vần tinên tuổi như thế nào cho tới nghe số điện thoại như thế nào hay là nghe tuổi tácỏi về thời gian hỏi về kế hoạch trong tương lai không",
+  "wer_percent": 15.2
+ },
+ {
+  "file": "09_trung_binh.wav",
+  "category": "trung_binh",
+  "set": "test",
+  "duration_s": 6.3,
+  "reference": "một trong cái vấn đề lớn nhất của mình ý là bởi vì là mình có rất nhiều cái ý định mình có rất nhiều hoài bão mình có rất nhiều cái",
+  "model_output": "ồi trong cái vấn đề lớn nhất của mình ý là bởi vì mình có rất nhiều cái ý mình có rất nhiều hoó bã mình có rất nhiều cái",
+  "wer_percent": 15.6
+ },
+ {
+  "file": "10_nhieu_10dB_1_nguoi_chen.wav",
+  "category": "nhieu_10dB_1_nguoi_chen",
+  "set": "test_snr_10_interferer_1",
+  "duration_s": 5.9,
+  "reference": "thứ mười bất cứ ai có một lý do nào đó để sống thì có thể trải qua bất cứ cái điều kiện nào",
+  "model_output": "thứ mười bất cứ ai có một lý do nào đó để sống thì có thể trải qua bất cứ cái điều kiện nào",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "11_nhieu_10dB_1_nguoi_chen.wav",
+  "category": "nhieu_10dB_1_nguoi_chen",
+  "set": "test_snr_10_interferer_1",
+  "duration_s": 7.1,
+  "reference": "em biết rằng là thầy cô nào cũng sẽ muốn tốt cho học sinh mình muốn học sinh mình có thể phát triển theo cách tốt nhất",
+  "model_output": "em biết rằng là thầy cô nào cũng sẽ muốn tốt cho học sinh mình muốn học sinh mình có thể phát triển theo cách tốt nhất",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "12_nhieu_0dB_1_nguoi_chen.wav",
+  "category": "nhieu_0dB_1_nguoi_chen",
+  "set": "test_snr_0_interferer_1",
+  "duration_s": 5.2,
+  "reference": "để bắt đầu đọc sách một cách hiệu quả nếu như mà bạn bắt đầu với bất cứ điều gì thì cái khả năng tự học",
+  "model_output": "để bắt đầu đọc sách một cách hiệu quả nếu như mà bạn bắt đầu với bất cứ điều gì thì cái khả năng tự học",
+  "wer_percent": 0.0
+ },
+ {
+  "file": "13_nhieu_0dB_1_nguoi_chen.wav",
+  "category": "nhieu_0dB_1_nguoi_chen",
+  "set": "test_snr_0_interferer_1",
+  "duration_s": 6.9,
+  "reference": "bạn đó cần một người lắng nghe lúc này thì bạn không thể nào ép bạn đó đi theo cái lịch trình có sẵn của mình được",
+  "model_output": "bạn đó cần một người lắng nghe lúc này thì bạn không thể nào ép bạn đó đi theo cái lịch trình có sẵn của mình được",
+  "wer_percent": 0.0
+ }
+]
